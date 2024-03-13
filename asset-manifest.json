@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7d86254e.css",
+    "main.js": "/static/js/main.fcae3f41.js",
+    "static/js/592.2c3f32fc.chunk.js": "/static/js/592.2c3f32fc.chunk.js",
+    "static/media/fondodorado.png": "/static/media/fondodorado.0867abfc8a8b14af0b3f.png",
+    "static/media/VerPerfilIMG-removebg-preview (1).png": "/static/media/VerPerfilIMG-removebg-preview (1).8e77c4fb5e08bef66a6c.png",
+    "static/media/logo-removebg-preview.png": "/static/media/logo-removebg-preview.083a8a46da12b0074afd.png",
+    "static/media/imagen3.jpg": "/static/media/imagen3.e843c92f91ea43deb2d6.jpg",
+    "static/media/usuarioConectado-removebg-preview.png": "/static/media/usuarioConectado-removebg-preview.95ff56161229b7601391.png",
+    "static/media/1709088976002-usuarioConectado.png": "/static/media/1709088976002-usuarioConectado.e8adeee1c4268e8dcb45.png",
+    "static/media/homero.png": "/static/media/homero.01035316b2531ab44ea6.png",
+    "static/media/ajustesicono-removebg-preview.png": "/static/media/ajustesicono-removebg-preview.054c566be6faa108c7eb.png",
+    "static/media/ofrecetusservicios-removebg-preview.png": "/static/media/ofrecetusservicios-removebg-preview.431379a97ecca68dc43b.png",
+    "static/media/imagen8.png": "/static/media/imagen8.06f153fa9ac7cd4c04cd.png",
+    "static/media/simboloAmistad2-removebg-preview.png": "/static/media/simboloAmistad2-removebg-preview.c5b35841d6804b535295.png",
+    "static/media/crear-removebg-preview.png": "/static/media/crear-removebg-preview.b6e2d7ef7db2dc92d001.png",
+    "static/media/simboloamistad-removebg-preview.png": "/static/media/simboloamistad-removebg-preview.ec8d323934a8e8e3d318.png",
+    "static/media/estrechondemanos.png": "/static/media/estrechondemanos.a306f09045f5791d40d4.png",
+    "static/media/SearchIMG-Photoroom.png-Photoroom.png": "/static/media/SearchIMG-Photoroom.png-Photoroom.35abe368a61090d6b776.png",
+    "static/media/imagen4.jpg": "/static/media/imagen4.168fe5d1bc43166a95f0.jpg",
+    "static/media/imagen6.png": "/static/media/imagen6.82a86d0a65be9abfa3fe.png",
+    "static/media/imagen2.png": "/static/media/imagen2.8a2907484db3ce5e9cef.png",
+    "static/media/rentafriendfooter.png": "/static/media/rentafriendfooter.7e07fbb8443c6b1b4250.png",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/index.html",
+    "main.7d86254e.css.map": "/static/css/main.7d86254e.css.map",
+    "main.fcae3f41.js.map": "/static/js/main.fcae3f41.js.map",
+    "592.2c3f32fc.chunk.js.map": "/static/js/592.2c3f32fc.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7d86254e.css",
+    "static/js/main.fcae3f41.js"
+  ]
+}
